@@ -233,10 +233,10 @@
 
 
 **BONUS SESSIONS**
-Greedy Algorithms    [Codes]
-Sliding Window Technique    [Codes]
-Bit Manipulation    [Codes]
-BackTracking BONUS Session    [Codes]
+Greedy Algorithms    [Codes]                                                                                                                                                                      
+Sliding Window Technique    [Codes]                                                                                                                                                               
+Bit Manipulation    [Codes]                                                                                                                                                                       
+BackTracking BONUS Session    [Codes]                                                                                                                                                             
 
 
 
