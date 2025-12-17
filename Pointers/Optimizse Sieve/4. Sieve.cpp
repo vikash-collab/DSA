@@ -3,6 +3,7 @@
 #include <cmath>
 using namespace std;
 
+//Optimising Seive
 vector<bool> Sieve(int n)
 {
     // create a sieve array telling isPrime till 'n'
@@ -32,6 +33,7 @@ vector<bool> Sieve(int n)
     return sieve;
 }
 
+//Segmented Seive  
 vector<bool> segmentedSeive(int L, int R)
 {
     // Get me prime marking array.
